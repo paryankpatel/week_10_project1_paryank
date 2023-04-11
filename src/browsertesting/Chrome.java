@@ -24,7 +24,7 @@ public class Chrome {
         //Enter the email  to email field
         driver.findElement(By.id("Email")).sendKeys("paryank18us@gmail.com");
         //Enter the password to password field
-        driver.findElement(By.id("Password")).sendKeys("AH123");
+        driver.findElement(By.id("Password")).sendKeys("Paryank123");
         //Close the browser
         driver.close();
 
